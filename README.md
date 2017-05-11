@@ -1,1 +1,2 @@
 # iOS-DownLoadNSURLSessionDemo
+利用NSURLSession实现下载功能(实现了多任务同时下载,包括任务等待和设置最大任务数)
